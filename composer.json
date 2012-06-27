@@ -1,0 +1,18 @@
+{
+    "name": "sebastian-alfers/mailchimp",
+    "type": "mailchimp api",
+    "description": "MailChimp PHP API Wrapper 1.3",
+    "keywords": ["Mailchimp"],
+    "homepage": "http://apidocs.mailchimp.com/api/downloads/#php",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Scott Switzer",
+            "email": "scott@switzer.org"
+        }
+    ],
+    "require": {
+        "php": ">=5.0.0"
+    },
+    "target-dir": "Mailchimp/api"
+}
